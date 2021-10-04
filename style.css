@@ -1,4 +1,14 @@
 h1 {
   text-align: center;
-  color: yellow;
+  color: blue;
+  background: yellow;
+  display: block;
+  margin: 0 auto;
+  padding: 10px;
+}
+p {
+  text-align: center;
+}
+form {
+  text-align: center;
 }
